@@ -15,7 +15,7 @@ website:
   # google-analytics: "G-FV9Z7SDZ0M"
   open-graph: true
   twitter-card: true
-  site-url: https://gyanantaran.github.io/
+  site-url: https://gyanantaran.github.io/quarto-site
   repo-url: https://github.com/gyanantaran/quarto-site
   issue-url: https://github.com/gyanantaran/quarto-site/issues/new/choose
   repo-actions: [edit, issue]
