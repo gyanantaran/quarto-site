@@ -1,0 +1,15 @@
+## https://github.com/quarto-dev/quarto-web/blob/main/.gitignore
+.Rproj.user
+.DS_Store
+.Rhistoryt
+.Rhistory
+/.quarto/
+/_*.local
+/.venv/
+/.condaenv/
+*_cache/
+/env/
+/_site/
+
+
+/.luarc.json

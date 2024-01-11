@@ -1,0 +1,43 @@
+---
+pagetitle: Homepage
+toc: false
+css: index.css
+layout: full
+include-after-body: js.html
+description:
+    "Homepage: Vishal Paudel"
+---
+
+:::::::{.column-body-outset}
+::::: {layout="[[40,8,50]]"}
+
+:::{.centered-text}
+
+![twitter-logo-gyanantaran](gyanantaran.png){.rounded-corners}
+[A cube opening]{.small-text}
+
+:::
+
+:::{}
+:::
+
+:::{}
+
+# Vishal Paudel
+
+[B.Tech Student]{.small-text}<br>[Computer Science and Artificial Intelligence at Plaksha University, Mohali]{.small-text}
+
+<p>&nbsp;</p>
+
+ [Blog]() ⸱ [Twitter](https://twitter.com/gyanantaran)
+
+<p>&nbsp;</p>
+
+My broad interests include — in no particular order: algorithm design, combinatorial games, competitive programming. You can find out more about [my work here](about.qmd).
+
+<p>&nbsp;</p>
+
+:::
+
+:::::
+:::::::
