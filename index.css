@@ -1,0 +1,18 @@
+body{
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' width='900' height='600'%3e%3cpath fill='%23FFF' d='M0 0h900v600H0z'/%3e%3cpath fill='%23CCCCFF' d='M440.3 600c53.7-39 107.4-78 120.6-140.4 13.2-62.5-14.1-148.4 14-184.7C603 238.7 686.6 252 750 237.8c63.4-14.1 106.7-55.8 150-97.5V600ZM459.7 0c-47.1 45.8-94.2 91.5-116.9 142-22.8 50.4-21.1 105.6-43.7 157.1-22.5 51.5-69.3 99.5-123.2 125.6C122 450.9 61 455.3 0 459.7V0Z'/%3e%3cscript/%3e%3c/svg%3e");    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    font-size: 42px !important;
+}
+
+.small-text {
+    font-size: 70%;
+}
+
+.centered-text {
+    text-align: center;
+}
